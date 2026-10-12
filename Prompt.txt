@@ -1,0 +1,1040 @@
+# FULL PROMPT — PREMIUM FASHION E-COMMERCE WEBSITE
+
+Create a complete premium fashion e-commerce website for a modern clothing brand.
+
+The website must look like a professional fashion brand website, not a generic online store template.
+
+The final result should feel similar to:
+
+* Luxury fashion brand website
+* Premium D2C (Direct-to-Consumer) clothing store
+* Modern editorial fashion website
+* High-end e-commerce experience
+
+The website must have:
+
+* Professional UI/UX
+* Elegant visual hierarchy
+* Premium product presentation
+* Smooth and expensive-looking animations
+* Complete e-commerce experience
+* Bright and attractive color system
+* Realistic product catalog
+* Ready-to-use product images
+* Complete icons included automatically
+
+The website should communicate:
+
+"Brand fashion modern dengan kualitas premium, pengalaman belanja nyaman, dan tampilan elegan."
+
+---
+
+# 1. TECHNOLOGY REQUIREMENT (MANDATORY)
+
+Build the website using ONLY:
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+
+Do NOT use:
+
+* React
+* Vue
+* Angular
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Bootstrap
+* jQuery
+* Any frontend framework
+
+The final project must be a static website.
+
+Required files:
+
+```
+fashion-ecommerce/
+│
+├── index.html
+├── style.css
+├── app.js
+├── README.md
+│
+├── assets/
+│
+│── images/
+│   ├── products/
+│   ├── banners/
+│   ├── lifestyle/
+│   └── logo/
+│
+│── icons/
+│   ├── cart.svg
+│   ├── search.svg
+│   ├── wishlist.svg
+│   ├── user.svg
+│   ├── menu.svg
+│   ├── close.svg
+│   ├── shipping.svg
+│   ├── payment.svg
+│   ├── star.svg
+│   ├── filter.svg
+│   ├── heart.svg
+│   └── other-icons.svg
+```
+
+The website must run by opening:
+
+```
+index.html
+```
+
+No build process.
+
+Compatible with:
+
+* Vercel
+* Netlify
+* GitHub Pages
+* Static hosting
+
+---
+
+# 2. BRAND IDENTITY
+
+Create a fictional premium fashion brand.
+
+Brand name:
+
+# AURELLE STUDIO
+
+Brand positioning:
+
+Premium modern fashion label for women and lifestyle clothing.
+
+Tagline:
+
+"Elegant Style For Every Moment"
+
+Indonesian version:
+
+"Elegansi Modern Untuk Setiap Momen"
+
+Brand personality:
+
+* Elegant
+* Modern
+* Feminine
+* Premium
+* Minimal
+* Stylish
+* Trustworthy
+
+---
+
+# 3. COLOR STYLE
+
+The website MUST NOT use dark mode.
+
+Use a bright premium fashion palette.
+
+Main colors:
+
+Background:
+
+#FFFDF9
+
+Cream:
+
+#F8F0E6
+
+Soft Beige:
+
+#EAD8C5
+
+Luxury Brown:
+
+#A97855
+
+Accent Gold:
+
+#D4A574
+
+Soft Rose:
+
+#E8C8B8
+
+Text:
+
+#292929
+
+Secondary text:
+
+#6F6F6F
+
+Card:
+
+#FFFFFF
+
+The website should feel:
+
+* Clean
+* Warm
+* Expensive
+* Elegant
+* Fashionable
+
+Avoid:
+
+* Neon colors
+* Dark themes
+* Gaming style
+* Overly colorful UI
+
+---
+
+# 4. TYPOGRAPHY
+
+Use premium fashion typography.
+
+Heading:
+
+Playfair Display / Cormorant Garamond
+
+Body:
+
+Inter / Manrope
+
+Typography style:
+
+Luxury editorial magazine.
+
+Hero heading must look premium and sophisticated.
+
+Example:
+
+"Temukan Gaya Elegan yang Mendefinisikan Dirimu"
+
+---
+
+# 5. AUTOMATIC ICON GENERATION
+
+IMPORTANT:
+
+All icons must already be provided.
+
+Do NOT leave placeholders.
+
+Do NOT write:
+
+"insert icon here"
+
+GPT must automatically create or provide all required icons.
+
+Store all icons inside:
+
+```
+assets/icons/
+```
+
+Required icons:
+
+Navigation:
+
+* logo
+* menu
+* close
+* search
+* cart
+* user
+* wishlist
+
+Shopping:
+
+* add cart
+* remove
+* quantity plus
+* quantity minus
+* filter
+* sort
+* checkout
+
+Information:
+
+* shipping
+* secure payment
+* return
+* support
+* star rating
+* size guide
+* location
+* email
+* phone
+
+Category:
+
+* dress
+* shirt
+* pants
+* accessories
+* collection
+
+Use:
+
+* SVG format
+* consistent style
+* professional line icon style
+
+No external CDN icon dependency.
+
+---
+
+# 6. PRODUCT IMAGE REQUIREMENT
+
+GPT must provide product images directly.
+
+Do not leave empty product placeholders.
+
+Generate realistic fashion product images.
+
+All images must look like a professional fashion catalog.
+
+Style:
+
+* studio lighting
+* clean background
+* premium clothing photography
+* consistent brand style
+
+Create products:
+
+## Women's Collection
+
+### 1. Celeste Satin Dress
+
+Category:
+Dress
+
+Price:
+
+Rp399.000
+
+Description:
+
+Dress satin premium dengan potongan elegan untuk acara formal maupun semi formal.
+
+---
+
+### 2. Aurelle Linen Blouse
+
+Category:
+
+Blouse
+
+Price:
+
+Rp289.000
+
+Description:
+
+Blouse linen ringan dengan desain minimalis dan nyaman digunakan.
+
+---
+
+### 3. Elora Knit Cardigan
+
+Category:
+
+Outerwear
+
+Price:
+
+Rp349.000
+
+Description:
+
+Cardigan premium dengan tekstur lembut untuk tampilan effortless.
+
+---
+
+### 4. Amara Pleated Skirt
+
+Category:
+
+Skirt
+
+Price:
+
+Rp319.000
+
+Description:
+
+Rok plisket modern dengan siluet elegan.
+
+---
+
+### 5. Luna Oversized Shirt
+
+Category:
+
+Shirt
+
+Price:
+
+Rp279.000
+
+Description:
+
+Kemeja oversized dengan gaya casual premium.
+
+---
+
+### 6. Aruna Wide Leg Pants
+
+Category:
+
+Pants
+
+Price:
+
+Rp329.000
+
+Description:
+
+Celana wide leg dengan desain modern dan nyaman.
+
+---
+
+### 7. Nara Premium Set
+
+Category:
+
+Set Outfit
+
+Price:
+
+Rp499.000
+
+Description:
+
+Set outfit lengkap untuk tampilan stylish.
+
+---
+
+### 8. Sofia Basic Top
+
+Category:
+
+Basic Wear
+
+Price:
+
+Rp219.000
+
+Description:
+
+Basic top berkualitas untuk penggunaan harian.
+
+---
+
+# 7. PRODUCT CATEGORY STRUCTURE
+
+Create categories:
+
+## New Arrival
+
+Produk terbaru.
+
+## Best Seller
+
+Produk paling diminati.
+
+## Dress Collection
+
+* Satin Dress
+* Midi Dress
+* Casual Dress
+
+## Tops Collection
+
+* Blouse
+* Shirt
+* Basic Top
+
+## Bottom Collection
+
+* Pants
+* Skirt
+
+## Outer Collection
+
+* Cardigan
+* Jacket
+* Outerwear
+
+## Complete Outfit
+
+* Matching Set
+* Casual Set
+
+Each category must have:
+
+* image
+* title
+* description
+* button
+
+---
+
+# 8. WEBSITE STRUCTURE
+
+Create complete homepage:
+
+## 1. Announcement Bar
+
+Example:
+
+"Gratis Ongkir Seluruh Indonesia Untuk Pembelian Tertentu"
+
+"Diskon 15% Koleksi Baru"
+
+---
+
+## 2. Navbar
+
+Include:
+
+Logo:
+
+AURELLE STUDIO
+
+Menu:
+
+* Home
+* Collection
+* New Arrival
+* Best Seller
+* Promo
+* About
+* Contact
+
+Right side:
+
+* Search
+* Wishlist
+* Account
+* Cart
+
+Sticky navbar.
+
+---
+
+# 9. HERO SECTION
+
+Create premium fashion campaign hero.
+
+Layout:
+
+Desktop:
+
+Two columns.
+
+Left:
+
+Headline.
+
+Right:
+
+Fashion image composition.
+
+Headline:
+
+"Elegansi Modern Untuk Setiap Momen"
+
+Description:
+
+"Temukan koleksi fashion premium dengan desain modern, bahan nyaman, dan detail yang membuat setiap penampilan lebih percaya diri."
+
+Buttons:
+
+Primary:
+
+"Belanja Sekarang"
+
+Secondary:
+
+"Lihat Koleksi"
+
+Hero image:
+
+Must be generated.
+
+Show:
+
+* model wearing clothing
+* product highlights
+* floating cards
+
+---
+
+# 10. HERO ANIMATION
+
+Create premium entrance animation:
+
+Sequence:
+
+1. Logo appears
+2. Heading reveal
+3. Description fade
+4. Buttons appear
+5. Fashion image enters
+6. Product cards float
+
+Animation style:
+
+* smooth
+* elegant
+* luxury
+
+Avoid:
+
+* bouncing
+* flashy movement
+
+---
+
+# 11. FEATURED COLLECTION
+
+Create section:
+
+"Explore Our Collection"
+
+Show category cards:
+
+* Dress
+* Tops
+* Pants
+* Outerwear
+* Sets
+
+Hover:
+
+* image zoom slightly
+* text animation
+* soft shadow
+
+---
+
+# 12. NEW ARRIVAL PRODUCT GRID
+
+Create premium product cards.
+
+Each card contains:
+
+* Product image
+* Product name
+* Category
+* Price
+* Rating
+* Wishlist button
+* Add cart button
+* Discount badge
+* New badge
+
+Example:
+
+NEW
+
+BEST SELLER
+
+SALE
+
+---
+
+# 13. PRODUCT CARD UX
+
+On hover:
+
+* Image smoothly zooms
+* Add cart button appears
+* Wishlist animates
+* Card lifts slightly
+* Shadow increases
+
+Animation:
+
+300ms smooth transition.
+
+---
+
+# 14. PRODUCT QUICK VIEW
+
+Create quick view modal.
+
+When clicking product:
+
+Display:
+
+* Product gallery
+* Product name
+* Price
+* Rating
+* Description
+* Size selection
+* Color selection
+* Quantity
+* Add to cart
+* Buy now
+
+---
+
+# 15. SHOPPING CART
+
+Create cart drawer.
+
+Features:
+
+* Add product
+* Remove product
+* Increase quantity
+* Decrease quantity
+* Calculate subtotal
+* Show total item
+* Checkout button
+
+Use JavaScript state management.
+
+---
+
+# 16. WISHLIST
+
+Create wishlist system.
+
+Features:
+
+* Add favorite
+* Remove favorite
+* Heart animation
+
+Store temporary data using:
+
+localStorage
+
+---
+
+# 17. SEARCH FEATURE
+
+Create search UI.
+
+Search products by:
+
+* name
+* category
+* collection
+
+Show:
+
+* matching products
+* empty state
+* popular searches
+
+---
+
+# 18. FILTER SYSTEM
+
+Create product filtering:
+
+Filter:
+
+* Category
+* Price
+* Size
+* Color
+
+Sort:
+
+* Latest
+* Cheapest
+* Most expensive
+* Popular
+
+---
+
+# 19. BRAND STORY SECTION
+
+Section title:
+
+"About AURELLE STUDIO"
+
+Content:
+
+"AURELLE STUDIO menghadirkan fashion modern dengan perpaduan desain elegan, kenyamanan, dan kualitas yang dirancang untuk gaya hidup masa kini."
+
+Use editorial layout.
+
+---
+
+# 20. PROMOTION SECTION
+
+Create premium banner:
+
+Example:
+
+"Special Collection Sale"
+
+"Upgrade your everyday style"
+
+Include:
+
+* background image
+* CTA button
+* elegant typography
+
+---
+
+# 21. TRUST SECTION
+
+Create:
+
+Why Choose Us
+
+Cards:
+
+## Premium Material
+
+Material nyaman dengan kualitas terbaik.
+
+## Fast Delivery
+
+Pengiriman cepat dan aman.
+
+## Easy Return
+
+Kemudahan proses penukaran.
+
+## Secure Payment
+
+Pembayaran aman.
+
+---
+
+# 22. TESTIMONIAL SECTION
+
+Create customer reviews.
+
+Include:
+
+* Name
+* Photo/avatar
+* Star rating
+* Review
+
+Example:
+
+"Suka banget dengan kualitas bahannya. Modelnya simple tapi terlihat mahal."
+
+---
+
+# 23. LOOKBOOK SECTION
+
+Create Instagram style gallery.
+
+Use fashion images.
+
+Layout:
+
+Premium editorial grid.
+
+---
+
+# 24. NEWSLETTER
+
+Section:
+
+"Dapatkan Update Koleksi Terbaru"
+
+Include:
+
+Email input.
+
+Button:
+
+"Subscribe"
+
+---
+
+# 25. FAQ
+
+Create accordion:
+
+Questions:
+
+* Bagaimana cara membeli?
+* Berapa lama pengiriman?
+* Apakah bisa tukar ukuran?
+* Metode pembayaran apa saja?
+* Apakah produk ready stock?
+
+---
+
+# 26. FOOTER
+
+Include:
+
+Brand:
+
+AURELLE STUDIO
+
+Columns:
+
+Shop
+
+* Collection
+* New Arrival
+* Best Seller
+
+Help
+
+* FAQ
+* Shipping
+* Return
+
+Contact
+
+* Email
+* Phone
+* Social Media
+
+Include social icons locally.
+
+---
+
+# 27. JAVASCRIPT FEATURES
+
+Use Vanilla JavaScript for:
+
+* mobile menu
+* cart
+* wishlist
+* search
+* filter
+* sorting
+* quick view
+* modal
+* product interactions
+* animations
+* navbar scroll
+* current year
+
+Organize:
+
+app.js
+
+Functions:
+
+```
+initNavbar()
+
+initMobileMenu()
+
+initCart()
+
+initWishlist()
+
+initSearch()
+
+initFilter()
+
+initQuickView()
+
+initAnimations()
+
+```
+
+---
+
+# 28. ANIMATION SYSTEM
+
+Use:
+
+CSS animations
+
+*
+
+IntersectionObserver
+
+Include:
+
+* scroll reveal
+* stagger cards
+* fade up
+* image reveal
+* hover interaction
+* modal animation
+
+Animations should feel:
+
+Luxury fashion website.
+
+---
+
+# 29. RESPONSIVE DESIGN
+
+Support:
+
+Desktop
+
+Tablet
+
+Mobile
+
+Mobile must include:
+
+* compact navbar
+* mobile cart
+* optimized product grid
+* touch-friendly buttons
+
+---
+
+# 30. PERFORMANCE
+
+Optimize:
+
+* images
+* CSS
+* JavaScript
+
+Use:
+
+* lazy loading
+* optimized SVG
+* efficient animation
+
+---
+
+# 31. FINAL RESULT
+
+The final website should look like:
+
+A premium fashion brand that could realistically be used for selling clothing online.
+
+It must NOT look like:
+
+* cheap online shop
+* marketplace template
+* beginner project
+* generic AI website
+
+The final impression:
+
+"Ini adalah brand fashion profesional dengan pengalaman belanja modern dan premium."
+
+Generate complete working files:
+
+* index.html
+* style.css
+* app.js
+
+with all assets already prepared.
